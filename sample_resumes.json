@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "Candidate 01",
+    "title": "Senior Python Developer",
+    "years_experience": 6,
+    "skills": "Python;Django;FastAPI;SQL;Docker;Kubernetes;AWS;Git",
+    "summary": "Senior backend engineer focused on Python services and REST APIs. Experience building scalable systems and CI/CD pipelines.",
+    "education": "B.S. Computer Science"
+  },
+  {
+    "id": 2,
+    "name": "Candidate 02",
+    "title": "Full Stack Engineer",
+    "years_experience": 5,
+    "skills": "JavaScript;React;Node.js;Python;SQL;Docker;AWS",
+    "summary": "Full stack developer with React frontends and Node/Python backends. Delivered several end-to-end products.",
+    "education": "B.S. Software Engineering"
+  },
+  {
+    "id": 3,
+    "name": "Candidate 03",
+    "title": "Data Scientist",
+    "years_experience": 4,
+    "skills": "Python;Pandas;scikit-learn;TensorFlow;SQL;NLP",
+    "summary": "Data scientist experienced in model development, feature engineering, and MLOps basics.",
+    "education": "M.S. Data Science"
+  },
+  {
+    "id": 4,
+    "name": "Candidate 04",
+    "title": "Machine Learning Engineer",
+    "years_experience": 5,
+    "skills": "Python;TensorFlow;PyTorch;ML pipelines;Docker;AWS",
+    "summary": "Built and deployed ML models to production; implemented training pipelines and monitoring.",
+    "education": "M.S. Computer Science"
+  },
+  {
+    "id": 5,
+    "name": "Candidate 05",
+    "title": "DevOps Engineer",
+    "years_experience": 7,
+    "skills": "Docker;Kubernetes;Terraform;AWS;CI/CD;Linux",
+    "summary": "DevOps specialist focusing on infrastructure as code, orchestration, and deployment automation.",
+    "education": "B.S. Information Systems"
+  },
+  {
+    "id": 6,
+    "name": "Candidate 06",
+    "title": "Site Reliability Engineer",
+    "years_experience": 6,
+    "skills": "Linux;Prometheus;Grafana;Kubernetes;Go;Python",
+    "summary": "SRE experienced in reliability, monitoring, and incident response for distributed systems.",
+    "education": "B.S. Computer Engineering"
+  },
+  {
+    "id": 7,
+    "name": "Candidate 07",
+    "title": "Backend Engineer (Java)",
+    "years_experience": 5,
+    "skills": "Java;Spring Boot;SQL;Microservices;Docker;Kubernetes",
+    "summary": "Backend developer building microservices with Spring Boot and relational databases.",
+    "education": "B.S. Computer Science"
+  },
+  {
+    "id": 8,
+    "name": "Candidate 08",
+    "title": "Frontend Engineer",
+    "years_experience": 3,
+    "skills": "JavaScript;React;TypeScript;CSS;HTML;Webpack",
+    "summary": "Frontend developer focused on modern React applications and UI performance.",
+    "education": "B.S. Design"
+  },
+  {
+    "id": 9,
+    "name": "Candidate 09",
+    "title": "Product Manager",
+    "years_experience": 8,
+    "skills": "Roadmapping;Stakeholder Management;A/B Testing;SQL;Data Analysis",
+    "summary": "Product leader with experience owning roadmaps, metrics, and cross-functional delivery.",
+    "education": "MBA"
+  },
+  {
+    "id": 10,
+    "name": "Candidate 10",
+    "title": "UX/UI Designer",
+    "years_experience": 4,
+    "skills": "Figma;Sketch;User Research;Prototyping;HTML/CSS",
+    "summary": "Designer creating user-centered interfaces and prototypes with a data-informed approach.",
+    "education": "B.A. Design"
+  }
+  /* truncated for brevity in this file - the CSV contains all 50 entries */
+]
